@@ -1,0 +1,6 @@
+Este é um arquivo de exemplo.
+Ele contém várias linhas.   (aqui tem 3 espaços extras)
+Aqui temos algumas palavras repetidas, como "exemplo" e "linhas".
+Algumas palavras repetidas e caracteres como pontuação, números: 1234, e tabulação.
+    (linha com tabulação no início)
+Esta é a última linha do arquivo.
